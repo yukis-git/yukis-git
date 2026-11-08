@@ -2,7 +2,7 @@
 
 Geometry-first computer vision — I like problems where the right model of the camera makes the algorithm simple, exact and fast.
 
-University of Toyama · 持続可能社会創成学環 社会データサイエンスプログラム
+University of Toyama
 
 **Interests** · 360° (equirectangular) vision · fiducial markers · self-localisation and sensor placement · phase-based motion estimation · estimation theory (CRLB, bundle adjustment)
 
